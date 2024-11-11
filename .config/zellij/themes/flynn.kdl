@@ -1,0 +1,15 @@
+themes {
+    flynn {
+        bg "#222222"
+        fg "#888888"
+        black "#000000"
+        red "#ed3b3b"
+        green "#3ccc37"
+        yellow "#ff0000"
+        blue "#7fbbb3"
+        magenta "#d699b6"
+        cyan "#00FFFF"
+        white "#3ccc37"
+        orange "#ed7310"
+    }
+}
