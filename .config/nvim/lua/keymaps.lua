@@ -5,3 +5,7 @@ local map = vim.keymap.set
 
 -- Neo tree
 map("n", "<leader>nf", "<CMD>Neotree focus<CR>", { desc = "NeoTree focus" })
+map("n", "<leader>nh", function()
+  Snacks.notifier.show_history()
+end, { desc = "Show notifier history" })
+map("n", "<leader>n", function() end)
