@@ -19,3 +19,4 @@ foreground = ffffff
 cursor-color = ffffff
 selection-background = 7aa2f7
 selection-foreground = ffffff
+font-family = "JetBrainsMonoNL Nerd Font Mono"
